@@ -1,12 +1,12 @@
 package com.gzeinnumer.mylibdialogsearchviewexample;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.gzeinnumer.mylibdialogsearchviewexample.databinding.ActivityMainBinding;
-import com.gzeinnumer.mylibsearchviewdialog.dialog.searchViewDialogNew.SearchViewDialog;
+import com.gzeinnumer.svd.dialog.searchViewDialogNew.SearchViewDialog;
 
 import java.util.ArrayList;
 import java.util.List;
